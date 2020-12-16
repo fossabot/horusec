@@ -1,5 +1,6 @@
 <a href="https://github.com/ZupIT/horusec/releases"><img src="https://img.shields.io/github/v/tag/ZupIT/horusec?color=green&label=Version"/></a>
 <a href="https://github.com/ZupIT/horusec/actions?query=branch%3Amaster+"><img src="https://img.shields.io/github/workflow/status/ZupIT/horusec/e2e/master?label=Build"/></a>
+<a href="https://app.fossa.com/projects/git%2Bgithub.com%2Ffike%2Fhorusec?ref=badge_shield" alt="FOSSA Status"><img src="https://app.fossa.com/api/projects/git%2Bgithub.com%2Ffike%2Fhorusec.svg?type=shield"/></a>
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
 <p></p>
@@ -151,3 +152,7 @@ This project exists thanks to all the [contributors]((https://github.com/ZupIT/h
 [CodeSecuriyScan]: https://security-code-scan.github.io/
 
 
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Ffike%2Fhorusec.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Ffike%2Fhorusec?ref=badge_large)
